@@ -14,4 +14,4 @@ See https://github.com/yonah-ag/musescore-tab-tools/blob/main/LICENSE
 
 _Note: This plugin requires version 3.x of MuseScore._
 
-+ Download TabTools.qml then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
++ Download **TabTools.qml** then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
